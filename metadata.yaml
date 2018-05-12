@@ -1,0 +1,28 @@
+_repo: Oscar-Wilde--An-Idler-s-Impression_32849
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Saltus, Edgar
+    alias: Saltus, Edgar Evertson
+    birthdate: 1855
+    deathdate: 1921
+    gutenberg_agent_id: '1417'
+    url: http://www.gutenberg.org/2009/agents/1417
+    wikipedia: http://en.wikipedia.org/wiki/Edgar_Saltus
+description: ''
+gutenberg_issued: '2010-06-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32849'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Wilde, Oscar, 1854-1900 -- Criticism and interpretation'
+title: 'Oscar Wilde: An Idler''s Impression'
+url: http://www.gutenberg.org/ebooks/32849
